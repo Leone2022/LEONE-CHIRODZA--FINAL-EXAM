@@ -1,0 +1,14 @@
+<section class="form1">
+        <form action=""method ="" style="background-color: antiquewhite;padding:20px; 
+        width:40%">
+        <H3>Sample Form</H3>
+            <label for="">User Name</label><br>
+            <input type="text" placeholder="Username">
+            <br><br>
+            <label for="">password</label><br>
+            <Input type="password" name="" placeholder="Password">
+                <br><br>
+                <input type="submit">
+                <button>Submit form</button>
+        </form>
+    </section>
